@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330406185788",
+    "project_id": "quizapp-ea4bf",
+    "storage_bucket": "quizapp-ea4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330406185788:android:e8c0b8bd8cdcceb8d96c39",
+        "android_client_info": {
+          "package_name": "com.example.brainup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpGd6J60PtSNus6Qfr3BiMAxMSY6ljlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
